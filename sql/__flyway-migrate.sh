@@ -1,0 +1,1 @@
+flyway -user=lkryrcgwgbnqvu -password=c1ff772912f0ec5104b97cecdd3b34182b04839b9012392628b273ab6ed3a695 -url=jdbc:postgresql://ec2-52-212-157-46.eu-west-1.compute.amazonaws.com:5432/d5lm3fppl297q3 -locations=filesystem:/Users/aveek/Codebase/quicksighted/sql/scripts -table=flyway_schema_history migrate

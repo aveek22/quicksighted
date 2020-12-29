@@ -1,0 +1,72 @@
+{
+    "analysis": {
+        "analysisId": "eb533938-ba2a-451c-8f67-7e37291cc7d6",
+        "currentRevision": 10,
+        "deletedSheetIds": null,
+        "isFavorited": false,
+        "lastUpdated": 1608905569080,
+        "name": "USSuperstoreData Analysis",
+        "path": null,
+        "preparedDataSourceIds": [
+            "09251445-b707-43b4-ba6c-6df9b91b6edd"
+        ],
+        "preparedDataSourceOverlayIds": [],
+        "resourceState": "CREATION_SUCCESSFUL",
+        "settings": {
+            "defaultAuthoringHeight": null,
+            "defaultAuthoringWidth": null,
+            "defaultLayoutType": "SheetGridLayout",
+            "defaultResizeStrategy": "RESPONSIVE",
+            "enableQueryExecutionControl": false,
+            "longRunningQueries": false,
+            "optimizedRequeries": true
+        },
+        "sheetCounter": 1,
+        "sheetIds": [
+            "b1b4553f-fe1c-4737-9928-433c71eecc38"
+        ],
+        "tags": null,
+        "themeArn": null,
+        "thumbnailUrl": "https://sn-thumbnail-images-prod-eu-west-1.s3.eu-west-1.amazonaws.com/714290530475/analysis/thumbnail/eb533938-ba2a-451c-8f67-7e37291cc7d6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201225T145834Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=AKIAJ6RW7UAE44IWVBAQ%2F20201225%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Signature=962d256681c0932b01243cdf5a3dc7e199c8db71ab5a46cb4ec89b4080132cd4"
+    },
+    "pageMarker": null,
+    "pageSize": 20,
+    "sheets": [
+        {
+            "description": null,
+            "layout": {
+                "elements": [
+                    {
+                        "columnIndex": null,
+                        "columnSpan": 18,
+                        "elementId": "59bdbf08-7195-428f-9aac-5908864d53f6",
+                        "elementType": "VISUAL",
+                        "rowIndex": null,
+                        "rowSpan": 12
+                    },
+                    {
+                        "columnIndex": null,
+                        "columnSpan": 18,
+                        "elementId": "49cdeb8c-41f2-417e-b50d-3d68a4c1662a",
+                        "elementType": "VISUAL",
+                        "rowIndex": null,
+                        "rowSpan": 12
+                    }
+                ],
+                "layoutType": "SheetGridLayout",
+                "numColumns": 36
+            },
+            "name": "Sheet 1",
+            "sheetControlLayout": null,
+            "sheetId": "b1b4553f-fe1c-4737-9928-433c71eecc38",
+            "subtitle": null,
+            "title": null,
+            "visualIds": [
+                "59bdbf08-7195-428f-9aac-5908864d53f6",
+                "49cdeb8c-41f2-417e-b50d-3d68a4c1662a"
+            ]
+        }
+    ],
+    "sortDirection": "ASC",
+    "sortField": null
+}
